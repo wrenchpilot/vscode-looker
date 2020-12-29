@@ -1,8 +1,10 @@
 {
     "name": "looker",
     "displayName": "looker",
+    "publisher": "Ladvien",
     "description": "Tools to aid development of LookML",
     "version": "0.0.3",
+    "repository": {"url": "https://github.com/Ladvien/vscode-looker"},
     "engines": {
         "vscode": "^1.32.0"
     },
